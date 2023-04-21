@@ -1,6 +1,7 @@
 # JSAC_APP_layout_1.0.1
 This is the layout of the fundemental app design for industary devlopment and maping.
-
+### Core Devloper
+Yogesh Kumar Jha
 
 # Indian Government Industry Mapping Android Application
 This Android application is developed by the Government of India to assist in industry mapping using GIS and GPS technology. This application is specifically designed to provide industry-related information to the public, as well as to government officials, researchers, and policy-makers.
