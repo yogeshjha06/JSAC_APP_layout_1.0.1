@@ -185,11 +185,5 @@
         app:layout_constraintTop_toTopOf="@+id/imageView2"
         app:srcCompat="@drawable/profile" />
 
-    <androidx.constraintlayout.widget.Group
-        android:id="@+id/group"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:constraint_referenced_ids="checkBox2,textView,textView8,textView5,textView6,textView4,textView10,textView9,textView11,textView3,textView2,textView7,button2,imageView8" />
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>
